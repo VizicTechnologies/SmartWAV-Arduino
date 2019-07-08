@@ -1,0 +1,27 @@
+/**************************************************************/
+  SMARTWAV ARDUINO V1.0 EXAMPLES
+
+/Those examples help the user to communicate any SMARTWAV BOARD with the arduino board!
+
+/Open and compile any example, once it's loaded into the arduino, just press the external RESET switch on the arduino to run the example.
+
+/IMPORTANT!!!! Some examples require pre-loaded images or text files into the microSD card, those files are inside each folder of sketch that need images or text files.
+
+/**************************************************************/
+Be sure to place first the SMARTWAV library, the entire folder(SMARTWAV)
+place it in the arduino root:
+
+arduino\arduino\libraries\SMARTWAV
+
+restart arduino to recognize the library and enjoy!
+
+be sure to check out all the SMARTGPU2 examples 100% ready to compile
+/**************************************************************/
+
+SMARTWAV boards:
+https://www.vizictechnologies.com/products
+
+VIZIC TECHNOLOGIES Copyright 2019
+
+www.vizictechnologies.com
+/**************************************************************/
