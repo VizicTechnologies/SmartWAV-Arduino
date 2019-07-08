@@ -9,7 +9,7 @@ Where to place this entire folder(SMARTWAV)?
 
 place it in the arduino PC root:
 
-arduino-\arduino-1.0\libraries\SMARTWAV
+Program Files\Arduino\Libraries\SMARTWAV
 
 restart arduino IDE to recognize the library and enjoy!
 
